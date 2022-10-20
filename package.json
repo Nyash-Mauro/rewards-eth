@@ -1,0 +1,29 @@
+{
+  "name": "reward-token",
+  "version": "1.0.0",
+  "description": "rewards-eth",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@openzeppelin/test-helpers": "^0.5.13",
+    "erc3156": "^0.4.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nyash-Mauro/rewards-eth.git"
+  },
+  "keywords": [
+    "rewards-eth"
+  ],
+  "author": "Nyash-Mauro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nyash-Mauro/rewards-eth/issues"
+  },
+  "homepage": "https://github.com/Nyash-Mauro/rewards-eth#readme"
+}
